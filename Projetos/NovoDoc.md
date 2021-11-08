@@ -1,16 +1,23 @@
-# Novo Projeto :cactus:
+# PROJETO DE CONSTRUÇÃO DE SOFTWARE
 
-**Objetivos**:
+- **Objetivos:**
 
-- 1
-- 2
-- 3
+- **Tempo:**
 
-**Metodologia:**
+- **Custo/Orçamento:**
 
-- 1
-- 2
-- 3
+- **Qualidade:**
+
+  
+
+**Metodologias:**
+
+- Agile:
+- Waterfall (cascata):
+- Scrum:
+- Kanban:
+- Lean Development:
+- Feature-driven development:
 
 
 
